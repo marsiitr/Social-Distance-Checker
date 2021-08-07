@@ -57,4 +57,9 @@ project on tenserflow
 
 3.) Annushree
 
+# References 
+
+1.) https://youtu.be/UM9oDhhAg88
+
+2.) https://youtu.be/Ax6P93r32KU
 
