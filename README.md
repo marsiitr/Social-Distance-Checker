@@ -55,7 +55,7 @@ maintaining social distance or not, we are working on the project named, Social 
     OpenCV stands for open-source computer vision. It was generated to support a common infrastructure for computer vision operations and use system behaviour in financial products. It generally targets image processing, faces recognition, video capture, searching, and object disclosure.It is created to implement various operations including recognising and detecting faces, analysing human tasks in videos, identifying objects, recording camera movements, tracking moving objects, and combining images to create a high-resolution image for the accurate scene.
 </p>
 
-[Elaborative Explanation](https://github.com/Alokkohli200)
+[Elaborative Explanation](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/README.md)
 
 <p align="justify">
   <h2>Cost Structure</h2>
