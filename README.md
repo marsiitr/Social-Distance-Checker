@@ -99,15 +99,12 @@ project on tenserflow
 5. [Vansh Mehra](https://github.com/vanshmehra)
   
 </p>
-
-
-# Mentors
-
-1.) Agrim Aggarwal
-
-2.) Anfal Ansari
-
-3.) Annushree
+<h2>Mentors</h2>
+<p>
+  
+1. [Agrim Agrawal](https://github.com/Agrim01)
+2. [Anfal Ansari](https://github.com/AnfalAnsari)
+3. [Annu Shree](https://github.com/annushree21)
 
 </p>
 <h2>References</h2>
