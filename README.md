@@ -3,8 +3,12 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88554453/128603773-dceafea5-7f4f-46a8-8303-98dc23235368.jpg" 
-  <i>Social distancing and mask detection</i>
+  <img src="https://user-images.githubusercontent.com/88554453/128603773-dceafea5-7f4f-46a8-8303-98dc23235368.jpg"  
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88554453/128636384-2ba9c53f-07ae-45ca-857b-3f566faee9a0.jpg"  
+  <i>Social Distancing and Mask Detection</i>
 </p>
 
 <p align="justify">
@@ -25,6 +29,20 @@ As the name suggests, social distancing implies that people should physically di
 one another, reducing the spread of contagious diseases like COVID. So, in order to monitor if people are 
 maintaining social distance or not, we are working on the project named, Social distance checker. 
 </p>
+
+<p align="justify">
+  <h2>Workflow</h2>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88554453/128636506-bd665abb-4ff2-4cb8-b440-d4bf4b883c61.jpg">
+  <i>Schematic Flow Chart of Social Distancing</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88554453/128636555-7c809c2d-d570-43d5-9f6a-db60f2b3388b.jpg">
+</p> 
+
 
 <p align="justify">
   <h2>Cost Structure</h2>
@@ -70,18 +88,18 @@ project on tenserflow
 
 * We can integerate it with cctv to use it practically in daily life and we can use it with bird eye view method to get better results.
 </p>
+<h2>Team Members</h2>
 
-# Team members
+<p>
+  
+1. [Alok Kohli](https://github.com/Alokkohli200)
+2. [Grandhi Rahul Gupta](https://github.com/rahulgrandhi13579)               
+3. [Pallapu Sree Prudhveenadh](https://github.com/Prudhveenadh)
+4. [Prem Chhangani](https://github.com/pppdpp)
+5. [Vansh Mehra](https://github.com/vanshmehra)
+  
+</p>
 
-1.) Alok Kohli
-
-2.) Grandhi Rahul Gupta
-
-3.) Prem Chhangani
-
-4.) Pallapu Sree Prudhveenadh
-
-5.) Vansh Mehra
 
 # Mentors
 
