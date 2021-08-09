@@ -70,5 +70,17 @@
  
 [Final code](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/social%20distancing%20code.txt) 
 
+<p align="justify">
+  <h1>Mask Detection</h1>
+  <p>
+  Now let's look into Mask detection part.
+  
+  First we have to import several packages like TensorFlow , Keras , imutils ,etc
+  
+  <img src="https://user-images.githubusercontent.com/88554453/128701217-bc734cd5-b05d-4818-8666-8dcc5d94f36c.jpg">
+  
+  After importing the packages we will use inbuilt dnn(deep neural network) function to access the configure and weight of model files(which is pretrained and ML with hundred of images with mask and without mask). To access those images and model files click on the below link.
+  
+
 
 
