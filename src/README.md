@@ -68,7 +68,7 @@
 
  After merging all the above steps the final code looks like:
  
-[Final code](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/social%20distancing%20code.txt) 
+[Social Distancing code](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/social%20distancing%20code.txt) 
 
 <p align="justify">
   <h1>Mask Detection</h1>
@@ -89,5 +89,10 @@
   
   After completion of above steps the code for mask detection looks like:
 
+  [Mask code](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/Mask%20detection%20code.txt)
+  
+  Finally after merging the above codes our final social distancing and mask detection code looks like:
+  
+  [Final code]
 
 
