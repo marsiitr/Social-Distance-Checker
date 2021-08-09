@@ -79,8 +79,15 @@
   
   <img src="https://user-images.githubusercontent.com/88554453/128701217-bc734cd5-b05d-4818-8666-8dcc5d94f36c.jpg">
   
-  After importing the packages we will use inbuilt dnn(deep neural network) function to access the configure and weight of model files(which is pretrained and ML with hundred of images with mask and without mask). To access those images and model files click on the below link.
+  After importing the packages we will use inbuilt dnn(deep neural network) function to access the configure and weight of model files(which is pretrained and ML with hundred of images with mask and without mask).
   
+[Model files](https://github.com/rahulgrandhi13579/Social-Distance-Checker/tree/main/src)
+  
+  After that we have to make bounding boxes around faces with the help of modelfiles and inbuilt numpy function(np.array) and then we will compare those faces with the help of modelfiles which consists of hundreds of images which differ by mask and according to that if the person has weared a mask then the colour of the bounding box will be green and the matching percentage will be shown above it otherwise the bounding box will be in red colour.
+  
+  <img src="https://user-images.githubusercontent.com/88554453/128704267-5c81d576-4972-4f68-9ffe-6e461c53cb2e.jpg">
+  
+  After completion of above steps the code for mask detection looks like:
 
 
 
