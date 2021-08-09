@@ -50,19 +50,16 @@ maintaining social distance or not, we are working on the project named, Social 
 </p>
 
 <p align="justify">
-  <h2>Open-cv</h2>
+  <h2>Open-cv and TensorFlow</h2>
   <p>
     OpenCV stands for open-source computer vision. It was generated to support a common infrastructure for computer vision operations and use system behaviour in financial products. It generally targets image processing, faces recognition, video capture, searching, and object disclosure.It is created to implement various operations including recognising and detecting faces, analysing human tasks in videos, identifying objects, recording camera movements, tracking moving objects, and combining images to create a high-resolution image for the accurate scene.
+  
+  TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.It is an open source machine learning framework for all developers. It is used for implementing machine learning and deep learning applications. To develop and research on fascinating ideas on artificial intelligence, Google team created TensorFlow. TensorFlow is designed in Python programming language, hence it is considered an easy to understand framework.
+
 </p>
 
 [Elaborative Explanation](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/README.md)
 
-<p align="justify">
-  <h2>TensorFlow</h2>
-  <p>
-    TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.It is an open source machine learning framework for all developers. It is used for implementing machine learning and deep learning applications. To develop and research on fascinating ideas on artificial intelligence, Google team created TensorFlow. TensorFlow is designed in Python programming language, hence it is considered an easy to understand framework.
-
- [Elaborative Explanation]
     
 <p align="justify">
   <h2>Cost Structure</h2>
