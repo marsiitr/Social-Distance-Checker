@@ -93,6 +93,6 @@
   
   Finally after merging the above codes our final social distancing and mask detection code looks like:
   
-  [Final code]
+  [Final code](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/Socialdistance_mask_detection.py)
 
 
