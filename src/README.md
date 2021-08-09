@@ -106,5 +106,16 @@
   Finally after merging the above codes our final social distancing and mask detection code looks like:
   
   [Final code](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/Socialdistance_mask_detection.py)
+  
+  
+  <p align="justify">
+  <h2>Note</h2>
+  <p> 
+  In our final code we have worked on a sample video named alley, so to work on different videos 
+   
+  * First we need to save our desired video in the same folder in which our pycharm project is present.
+  * Then in our python code we need to replace the alley by our desired video name in the "cv2.VideoCapture" section.
+  * For using webcam we need to replace alley with 0 by removing double quotes.
+  
 
 
