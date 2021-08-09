@@ -107,6 +107,7 @@
   
   [Final code](https://github.com/rahulgrandhi13579/Social-Distance-Checker/blob/main/src/Socialdistance_mask_detection.py)
   
+  [Brief Video explanation](https://drive.google.com/drive/folders/14n7pwF_lQPZzoZWCOvFKJNiqEQ0wh_3i?usp=sharing)
   
   <p align="justify">
   <h2>Note</h2>
